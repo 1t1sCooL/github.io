@@ -11,8 +11,9 @@
     <h1>My GitHub Profile</h1>
     <p></p>
   markdown
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1t1sCooL&layout=compact)](https://github.com/1t1sCooL/github-readme-stats)
-  ![Статистика](https://github-readme-stats.vercel.app/api?username=1t1sCooL&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1t1sCooL&layout=compact&theme=dark)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1t1sCooL&show_icons=true&theme=dark)
 </div>
 
 </body>
